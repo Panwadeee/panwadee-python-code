@@ -2,12 +2,20 @@
     "github.copilot.enable": {
         "*": false
     },
+<<<<<<< HEAD
     "github.copilot.inlineSuggest.enable": false,
+=======
+>>>>>>> upstream/main
     "editor.quickSuggestions": {
         "other": false,
         "comments": false,
         "strings": false
     },
     "editor.acceptSuggestionOnCommitCharacter": false,
+<<<<<<< HEAD
     "editor.acceptSuggestionOnEnter": "off"
+=======
+    "editor.acceptSuggestionOnEnter": "off",
+    "github.copilot.editor.enableAutoCompletions": false
+>>>>>>> upstream/main
 }
