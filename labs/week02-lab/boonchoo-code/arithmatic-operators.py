@@ -240,7 +240,7 @@ print()
 # PRACTICE EXERCISES (FOR STUDENTS)
 # =============================================================================
 
-print("=" * 50
+print("=" * 50)
 print("PRACTICE EXERCISES")
 print("=" * 50)
 
