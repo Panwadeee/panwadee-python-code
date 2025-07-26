@@ -14,7 +14,7 @@ Below 18.5: Underweight
 25.0 - 29.9: Overweight
 30.0 and above: Obese
 """
-weight = float(input("weight: "))
+
 height = float(input ("weight: "))
 bmi = weight / height ** 2
 
