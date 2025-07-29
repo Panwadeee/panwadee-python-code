@@ -1,10 +1,17 @@
 {
+<<<<<<< HEAD
     "github.copilot.enable": {
         "*": false
     },
 <<<<<<< HEAD
     "github.copilot.inlineSuggest.enable": false,
 =======
+>>>>>>> upstream/main
+=======
+    "editor.fontSize": 20,
+    "editor.cursorBlinking": "solid",
+    "editor.fontFamily": "Cascadia Mono",
+    "editor.suggest.showVariables": true,
 >>>>>>> upstream/main
     "editor.quickSuggestions": {
         "other": false,
@@ -13,9 +20,17 @@
     },
     "editor.acceptSuggestionOnCommitCharacter": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
     "editor.acceptSuggestionOnEnter": "off"
 =======
     "editor.acceptSuggestionOnEnter": "off",
     "github.copilot.editor.enableAutoCompletions": false
+>>>>>>> upstream/main
+=======
+    "editor.acceptSuggestionOnEnter": "on",
+    "github.copilot.enable": {
+        "*": false
+    },
+    "github.copilot.editor.enableAutoCompletions": false,
 >>>>>>> upstream/main
 }
