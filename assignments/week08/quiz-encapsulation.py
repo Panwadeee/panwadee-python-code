@@ -6,7 +6,6 @@ Methods to calculate area (getArea()) and perimeter getPerimeter())
 A method to check if it's a square (isSquare())
 
 """
-
 class Rectangle:
     def __init__(self,length,width):
         self.__length = length
