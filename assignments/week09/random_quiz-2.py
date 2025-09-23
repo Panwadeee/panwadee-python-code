@@ -69,11 +69,15 @@ def get_thefirst_digit_hint(number):
 random_number = random.randint(1,100)
 attempt = 1
 
+print("=== Enhanced GUESSING GAME ===")
+print("Guess my number between 1 and 100!")
+print("You have unlimited attempts.")
+
 while True:
-    guess_number=int(input(f"Attemp {i+1}/6 - Enter your guess:"))
+    guess_number=int(input(f"Attemp ... - Enter your guess:"))
 
     if random_number == guess_number:
-        print(f"Congratulations! you won in {i+1} attempts")
+        print(f"Congratulations! you won in ...  attempts")
         break
     elif random_number < guess_number:
         print("Too hith Try again.")
