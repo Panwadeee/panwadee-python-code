@@ -29,8 +29,32 @@
 =======
     "editor.acceptSuggestionOnEnter": "on",
     "github.copilot.enable": {
-        "*": false
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
     },
+<<<<<<< HEAD
     "github.copilot.editor.enableAutoCompletions": false,
+>>>>>>> upstream/main
+=======
+    // Prevents inline suggestions from appearing.
+    "editor.inlineSuggest.enabled": false,
+    // Disables the parameter hints that pop up when you type a function signature.
+    "editor.parameterHints.enabled": false,
+    // Turns off suggestions based on the words in your current document.
+    "editor.wordBasedSuggestions": "off",
+    // Prevents triggering suggestions automatically on characters like a dot (.).
+    "editor.suggestOnTriggerCharacters": false,
+    // Stops the suggestion window from appearing.
+    "editor.suggest.showWords": false,
+    // Prevents IntelliSense hovers from showing function/type definitions.
+    "editor.hover.enabled": false,
+    // Disables GitHub Copilot suggestions.
+    "github.copilot.suggestions.enabled": false,
+    // Optional: Also disable Copilot for specific languages.
+    "github.copilot.advanced": {
+        "inlineSuggest.enableFor": {}
+    }
 >>>>>>> upstream/main
 }
