@@ -29,6 +29,7 @@ Phone: +91-9876543210
 
 """
 
+
 print("=== PERSONAL INFORMATION VALIDATOR ===")
 name = input("Enter your name: ")
 age = input("Enter your age: ")

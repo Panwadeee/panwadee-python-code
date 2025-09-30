@@ -48,6 +48,7 @@ USE: len(), split(), count(), upper(), lower(), title(), slicing operations
 
 """
 
+
 string = "The Quick Brown Fox Jumps Over The Lazy Dog"
 
 print("=== TEXT ANALYSIS REPORT ===")
